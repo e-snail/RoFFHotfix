@@ -1,4 +1,4 @@
-package roff.hotfix;
+package roff.app;
 
 import android.app.Application;
 import android.content.Context;
